@@ -1,0 +1,111 @@
+/* =========
+   Pagina-instellingen voor print/PDF
+   ========= */
+@page {
+  size: A4;
+  margin: 0; /* marges regelen we in body */
+}
+
+/* Achtergrond van het scherm (grijs) zodat je de "pagina" ziet */
+html {
+  background: #f0f0f0;
+}
+
+/* "Pagina": witte A4, gecentreerd */
+body {
+  box-sizing: border-box;
+  max-width: 210mm;      /* A4-breedte */
+  margin: 0 auto;        /* centreren */
+  padding: 20mm;         /* binnenmarges */
+  background: #ffffff;   /* witte pagina */
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  font-size: 11pt;
+  line-height: 1.4;
+  color: #222222;
+}
+
+/* Tekst iets smaller dan volledige pagina voor leesbaarheid */
+body > * {
+  max-width: 170mm;
+}
+
+/* Koppen volgen dezelfde kolom */
+h1, h2, h3 {
+  max-width: 170mm;
+}
+
+/* =========
+   Koppen
+   ========= */
+h1 {
+  font-size: 22pt;
+  margin: 0 0 0.2em 0;
+}
+
+h2 {
+  font-size: 14pt;
+  margin-top: 1.6em;
+  margin-bottom: 0.4em;
+  border-bottom: 1px solid #cccccc;
+  padding-bottom: 0.2em;
+}
+
+h3 {
+  font-size: 12pt;
+  margin-top: 1.2em;
+  margin-bottom: 0.1em;
+}
+
+/* Lijn die ontstaat uit --- in Markdown */
+hr {
+  border: none;
+  border-top: 1px solid #dddddd;
+  margin: 1.2em 0;
+}
+
+/* =========
+   Tekst & lijsten
+   ========= */
+p {
+  margin: 0.1em 0 0.4em 0;
+}
+
+strong {
+  font-weight: 600;
+}
+
+ul {
+  margin-top: 0.2em;
+  margin-bottom: 0.6em;
+  padding-left: 1.2em;
+}
+
+li {
+  margin-bottom: 0.2em;
+}
+
+/* Iets compactere header-contactregel (optioneel) */
+h1 + p {
+  margin-top: 0.1em;
+}
+
+/* =========
+   Page breaks
+   ========= */
+
+/* Harde page break op plaatsen waar je in Markdown
+   <div class="pagebreak"></div> zet */
+.pagebreak {
+  page-break-before: always;
+  break-before: page;
+}
+
+/* Koppen niet onderaan de pagina laten breken */
+h2, h3 {
+  page-break-after: avoid;
+}
+
+/* Geen lelijke splits midden in bullets/paragrafen */
+p, ul, li {
+  page-break-inside: avoid;
+}
