@@ -26,7 +26,6 @@ Focus on the implementation and execution phase, ensuring technical systems deli
 ## Professional Track Record  
 - 18 Years at Tier-1 WMS Vendor (Blue Yonder): From technical support to Solution Architect for global accounts.
 - 6+ Years Senior Consultancy: Delivering complex rollouts for global 3PLs (DHL, K+N) and retail leaders.
-- Recent Focus (APAC/EMEA): Technical lead for operational scaling projects, managing vendor deliverables and system stability during high-growth phases.
 
 ## Preferred Assignment Type  
 - Independent Consultancy / Subject Matter Expertise.
