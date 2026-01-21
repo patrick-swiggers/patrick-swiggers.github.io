@@ -1,0 +1,6 @@
+# Output files
+*.pdf
+
+# OS cruft
+.DS_Store
+Thumbs.db
