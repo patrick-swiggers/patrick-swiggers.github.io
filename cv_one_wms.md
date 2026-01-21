@@ -1,10 +1,9 @@
----
+---  
 header-includes: |
     <meta name="robots" content="noindex, nofollow">
----
-
+---  
 # Supply Chain Systems & WMS Specialist
-Location: Belgium / Available for APAC (Remote or Hybrid)
+Location: Belgium / Available for APAC (Remote or Hybrid)  
 
 ## Summary  
 Supply Chain Systems Specialist with 25 years of experience in Logistics IT. Proven track record in bridging technical system design and operational execution across EMEA and APAC. Specialized for 20+ years in Blue Yonder (JDA/RedPrairie) WMS environments, from legacy systems to modern cloud versions.
@@ -29,7 +28,6 @@ Focus on the implementation and execution phase, ensuring technical systems deli
 
 ## Preferred Assignment Type  
 - Independent Consultancy / Subject Matter Expertise.
-- IT Operations & Technical Project Steering.
 - Remote or Hybrid roles (Flexible with time zones for EU/APAC collaboration).
 - Comfortable working on-site during critical phases and supporting go-live activities.
- 
+- **Contact**: patrick.swiggers@gmail.com  
