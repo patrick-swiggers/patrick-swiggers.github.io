@@ -3,11 +3,11 @@ header-includes: |
     <meta name="robots" content="noindex, nofollow">
 ---
 
-# Supply Chain Systems & WMS Expert
+# Supply Chain Systems & WMS Specialist
 Location: Belgium / Available for APAC (Remote or Hybrid)
 
 ## Summary  
-Supply Chain Systems Expert with 25 years of experience in Logistics IT. Specialized for 20+ years in Blue Yonder (JDA/RedPrairie) WMS environments, from legacy systems to modern Cloud versions. Proven track record in bridging the gap between technical system design and operational execution across EMEA and APAC.
+Supply Chain Systems Specialist with 25 years of experience in Logistics IT. Proven track record in bridging technical system design and operational execution across EMEA and APAC. Specialized for 20+ years in Blue Yonder (JDA/RedPrairie) WMS environments, from legacy systems to modern cloud versions.
 
 ## Core Expertise: IT Operations & Execution 
 Focus on the implementation and execution phase, ensuring technical systems deliver in a physical warehouse environment:
@@ -15,8 +15,8 @@ Focus on the implementation and execution phase, ensuring technical systems deli
 - IT Operations: Connecting WMS and integration logic (EDI/API) to warehouse execution.
 - Operational Troubleshooting: Root-cause analysis and resolving system bottlenecks in physical flows.
 - Scalability & Performance: Ensuring infrastructure supports growth (e.g., scaling 5k to 20k+ units/day).
-- Budget & KPI Monitoring: Oversight of technical costs and operational output.
-- Vendor Management: Controlling technical deliverables, specifications, and milestones.
+- Delivery tracking against operational KPIs
+- Vendor coordination and technical alignment
  
 ## Technical Skills  
 - WMS Logic: Blue Yonder (JDA/RedPrairie) setup, configuration, and technical architecture.
@@ -31,4 +31,5 @@ Focus on the implementation and execution phase, ensuring technical systems deli
 - Independent Consultancy / Subject Matter Expertise.
 - IT Operations & Technical Project Steering.
 - Remote or Hybrid roles (Flexible with time zones for EU/APAC collaboration).
+- Comfortable working on-site during critical phases and supporting go-live activities.
  
